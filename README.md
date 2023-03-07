@@ -1,2 +1,2 @@
-# Vnet_parser
-Parser for json ARM vnet and subnet for Azure virtual networks
+# VNet and Network Security Groups parser
+Convert  json ARM vnet, subnet and nsg for Azure virtual networks to Excel formatted columns
